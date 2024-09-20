@@ -1,0 +1,27 @@
+body{
+  color: black;
+  font-family: Arial;
+  font-size: 15px;
+  padding: 5px;
+}
+
+
+.title{
+  color: black;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20;
+
+}
+
+.section{
+  max-width: 1200px;
+  margin: 20px auto;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: left;
+  color: green;
+
+}
